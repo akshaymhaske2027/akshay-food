@@ -29,7 +29,7 @@
     ```
   - Paste your stripe payment gateway secret key
   - Paste your email and app password
-	> [How to generate app password for email?](https://www.youtube.com/watch?v=T0Op3Qzz6Ms)
+	
 
 - ### Start backend server locally
 	```
@@ -48,4 +48,4 @@ npm start
 ```
 
 
-> For further help: https://www.youtube.com/watch?v=9jkCJNoT4QA
+> For further help: akshaymhaske2027@gamil.com
